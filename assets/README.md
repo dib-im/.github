@@ -1,6 +1,6 @@
 <div align="center">
 <a href="dib.im">
-  <img src="../assets/Dib logo - 19.jpg" style="alignSelf: center;"/>
+  <img src="../assets/Dib logo - 10.jpg" style="alignSelf: center;"/>
 </a>
   </div>
 
@@ -17,3 +17,4 @@
 - [email](mailto:hi@dib.im)
 
 <hr/>
+
