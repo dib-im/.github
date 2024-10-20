@@ -4,7 +4,7 @@
 </a>
   </div>
 
-# [dib](https://dib.im)
+# [dib](https://dib.im) [.github](github.com/dib-im)
 
 ## 📓 about
 
@@ -17,3 +17,9 @@
 - [email](mailto:hi@dib.im)
 
 <hr/>
+
+<div align="center">
+<a href="dib.im">
+  <img src="../assets/Dib logo - 8.jpg"/>
+</a>
+  </div>
